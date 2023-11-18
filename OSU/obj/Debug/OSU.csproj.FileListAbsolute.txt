@@ -1,0 +1,11 @@
+C:\Users\soft\source\repos\OSU\OSU\bin\Debug\OSU.exe.config
+C:\Users\soft\source\repos\OSU\OSU\bin\Debug\OSU.exe
+C:\Users\soft\source\repos\OSU\OSU\bin\Debug\OSU.pdb
+C:\Users\soft\source\repos\OSU\OSU\obj\Debug\OSU.csproj.AssemblyReference.cache
+C:\Users\soft\source\repos\OSU\OSU\obj\Debug\OSU.Properties.Resources.resources
+C:\Users\soft\source\repos\OSU\OSU\obj\Debug\OSU.Resource1.resources
+C:\Users\soft\source\repos\OSU\OSU\obj\Debug\OSU.csproj.GenerateResource.cache
+C:\Users\soft\source\repos\OSU\OSU\obj\Debug\OSU.csproj.CoreCompileInputs.cache
+C:\Users\soft\source\repos\OSU\OSU\obj\Debug\OSU.exe
+C:\Users\soft\source\repos\OSU\OSU\obj\Debug\OSU.pdb
+C:\Users\soft\source\repos\OSU\OSU\obj\Debug\OSU.OSU.resources
